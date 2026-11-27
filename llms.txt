@@ -1,0 +1,30 @@
+# Abundant Intelligence Lab
+
+> Research led by Karan Girotra at Cornell Tech on how artificial intelligence changes the world and how to deploy and use it to create abundance for everyone.
+
+The lab is part of Cornell Tech (Cornell University) in New York City and is led by Karan Girotra, Charles H. Dyson Family Professor of Management. It studies how AI changes work, organizations, operations and innovation, and how to deploy AI to create abundance for everyone.
+
+## Pages
+
+- [Lab overview (Markdown)](https://abundant-intelligence-lab.vercel.app/index.md): mission, founder, PhD students, faculty affiliates, research projects, alumni and selected work
+- [Full content for LLMs](https://abundant-intelligence-lab.vercel.app/llms-full.txt): the same content in one file
+- [Website](https://abundant-intelligence-lab.vercel.app/): the HTML page, with schema.org JSON-LD
+
+## People
+
+- [Karan Girotra](https://business.cornell.edu/profiles/kg488/): founder
+- [Elena Belavina](https://business.cornell.edu/profiles/eb733/): faculty affiliate, Cornell SC Johnson College of Business
+- [Yu Nu](https://sc.edu/study/colleges_schools/moore/directory/nu_yu.php): faculty affiliate, University of South Carolina
+- [Xiaoyue Yan](https://business.uoregon.edu/directory/faculty-staff/all/xyan): faculty affiliate, University of Oregon
+- [Meng Qi](https://business.cornell.edu/profiles/mq56/): faculty affiliate, Cornell University
+- [Andrew M. Davis](https://business.cornell.edu/profiles/amd365/): faculty affiliate, Cornell SC Johnson College of Business
+- [Evgeny Kagan](https://carey.jhu.edu/faculty/faculty-directory/evgeny-kagan-phd): faculty affiliate, Johns Hopkins Carey Business School
+
+## Selected work
+
+- [AI and Its Impact on Creativity and Diversity: An Empirical Study of LLM-Generated Product Ideas](https://arxiv.org/abs/2607.27553)
+- [Using Artificial Intelligence for Reducing Food Waste in Commercial Kitchens](https://atkinson.cornell.edu/research/dashboard/using-artificial-intelligence-for-reducing-food-waste-in-commercial-kitchens/)
+
+## Optional
+
+- [Sitemap](https://abundant-intelligence-lab.vercel.app/sitemap.xml)
